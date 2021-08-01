@@ -21,4 +21,4 @@
   <img align="right" alt="Nat-unicorn" height="160" width="180" src="https://i.pinimg.com/originals/e9/bb/e6/e9bbe67d792761b53ec15027adb7ca35.gif">
 </div>
   
-<div>![Snake animation](https://github.com/galvaonana/galvaonana/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/galvaonana/galvaonana/blob/output/github-contribution-grid-snake.svg)
