@@ -1,10 +1,10 @@
-### Olá, eu sou Natália Galvão
+<h1>Olá, sou Natália Galvão</h1>
 
-
-- 🔭 Em busca da primeira vaga 
-- 🌱 Estudando Desenvolvimento Web em Resilia Educação
-- 😄 Ela/Dela/She/Her
-- ⚡ Aprendendo Python e React 
+<ul type="circle">
+<li>Em transição de carreira
+<li>Desenvolvedora Fullstack/Back end
+<li>Estudando Python e React
+</ul>
 
 <div>
   <a href="https://github.com/galvaonana">
