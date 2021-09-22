@@ -1,9 +1,8 @@
 <h1>Olá, sou Natália Galvão</h1>
 
 <ul type="circle">
-<li>Em transição de carreira
-<li>Desenvolvedora Fullstack/Back end
-<li>Estudando Python e React
+<li> Estagiária do GBS - Associates Program em IBM 
+<li> Desenvolvedora Web BackEnd
 </ul>
 
 <div>
